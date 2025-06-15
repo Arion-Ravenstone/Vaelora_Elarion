@@ -1,0 +1,10 @@
+{
+  "name": "arionai-standalone",
+  "dependencies": {},
+  "scripts": {
+    "format": "prettier --write .",
+    "lint:js": "eslint --fix",
+    "lint:css": "stylelint --fix",
+    "validate:html": "html5validator"
+  }
+}
